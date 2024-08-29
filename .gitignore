@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore Docker volume data directories
+postgres/data/
+n8n/data/
+pgadmin/data/
+caddy/data/
+caddy/config/
